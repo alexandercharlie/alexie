@@ -1,0 +1,14 @@
+{
+  "name": "alexie-bot",
+  "version": "1.0.0",
+  "description": "Alexie-bot\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Alex",
+  "license": "ISC"
+}
